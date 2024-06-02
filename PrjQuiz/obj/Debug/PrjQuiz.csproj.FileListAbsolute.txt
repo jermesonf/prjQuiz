@@ -1,0 +1,44 @@
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe.config
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.pdb
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\bin\Debug\MetroFramework.dll
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela1.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela2.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela3.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.exe
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.pdb
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela10.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela4.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela5.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela6.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela7.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela8.resources
+C:\Users\Lab\Desktop\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela9.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe.config
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.exe
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\bin\Debug\PrjQuiz.pdb
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\bin\Debug\MetroFramework.Design.dll
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\bin\Debug\MetroFramework.dll
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.AssemblyReference.cache
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela1.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Properties.Resources.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela10.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela2.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela3.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela4.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela5.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela6.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela7.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela8.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.Tela9.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.GenerateResource.cache
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.csproj.Up2Date
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.exe
+C:\Users\jemer\Downloads\New folder\C#\PrjQuiz\PrjQuiz\obj\Debug\PrjQuiz.pdb
